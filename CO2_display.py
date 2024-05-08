@@ -7,7 +7,7 @@ import RPi.GPIO as GPIO
 
 button_pin = 9
 
-#http://osoyoo.com
+#almost codes related to setting of the LCD display are cited from http://osoyoo.com
 
 # Define some device parameters
 I2C_ADDR  = 0x3f # I2C device address, if any error, change this address to 0x3f
